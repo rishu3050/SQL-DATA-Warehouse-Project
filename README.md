@@ -37,6 +37,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 This project is licensed under the [MIT License] (LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## # About Me
+## ✨ About Me
 
 Hi there! I'm ** Rishav Kumar ** , also known as ** Daddy Rishu **. I'm I'm a BBA student and aspiring Business Analyst, passionate about data-driven decision-making, problem-solving, and business growth strategies!
